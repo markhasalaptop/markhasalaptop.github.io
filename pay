@@ -1,1 +1,13 @@
-
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rDU7smGF41h8yTFHyc8oXukXVSro1H9GER"
+      }
+    }
+  ],
+  "payId": "pay$markhasalaptop.github.io"
+}
